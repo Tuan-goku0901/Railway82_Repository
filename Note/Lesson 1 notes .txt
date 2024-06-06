@@ -1,0 +1,11 @@
+-- Lesson 01 ngày 15 - 05 - 2024 --
+1, Hiểu cơ bản về git , githup
+    + git là công cụ lưu trữ, theo dõi và quản lý lịch sử thay đổi của mã nguồn trên githup nó được cài đặt trên máy tính cá nhân (local)
+    + gihup là là một dịch vụ lưu trữ mã nguồn (source code) trực tuyến dựa trên nền tảng Git
+    => githup là kho còn git là công cụ
+  (*) lệnh cơ bản để lưu trữ , thay đổi , cập nhật source code
+    - git add .   - update all file có trong repository local(máy tính)
+    - git status  - kiểm tra sự thay đổi của kho
+    - git commit -m ""  - ghi chi lại các sự thay đổi của file
+    - git push  - update file nên trên githup(kho online)
+2
